@@ -1,5 +1,5 @@
 
-public class ForwardMail {
+public class ReplyMail {
     
 	static Gmail service = null;
 	private static final String USER_ID = "me";
